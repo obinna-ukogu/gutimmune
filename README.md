@@ -5,7 +5,7 @@ The gut microbiota shapes host metabolism, development and immunity, yet how the
 
 This repository contains code and scripts for [^1].
 
-![Schematic](local/paper_figs/fig1_large.png)
+![Schematic](fig1.pdf)
 
 ## References
 
